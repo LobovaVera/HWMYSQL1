@@ -1,0 +1,1 @@
+SELECT * FROM hw1.phones WHERE ProductName REGEXP '8';
